@@ -1,5 +1,6 @@
 #!/bin/bash
 env=${env_name}
+var=${var_name}
 execute=${myboolean}
 echo "Hello!! Artisan-Tek!!"
 echo "Executing in ${env}--Environment"
